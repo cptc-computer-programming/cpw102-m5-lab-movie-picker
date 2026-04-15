@@ -101,7 +101,6 @@ Tonight's recommendation: The Lion King
 ```
 ---
 
-## Turn In
+## Submission
 
-- `DESIGN.md`
-- your program file
+Each group member should submit a link to the automatically generated Feedback PR to the Canvas assignment.
